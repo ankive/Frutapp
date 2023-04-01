@@ -1,0 +1,52 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+header {
+  padding-top: 20px;
+  text-align: center;
+}
+
+header img{width: 100px;}
+
+body h1{
+  color: #E96479;
+  font-family: "Lilita One", cursive;
+  font-size: 48px;
+  text-align: center;
+  margin: 0px;
+  text-decoration: underline;
+       }
+
+body h2{
+  text-align: center;
+  font-family: arial;
+}
+
+section {
+  text-align: center;
+}
+
+section img{
+  width: 400px;
+}
+
+footer{
+  text-align: center;
+
+  }
+
+footer a{
+  color: black;
+  font-family: arial;
+  border-style:solid;
+  border-width: 6px;
+  border-color: blue;
+  background-color:#7DB9B6 ;
+  padding: 10px;
+  text-decoration: none;
+  
+  
+  
+}
